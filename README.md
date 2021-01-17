@@ -41,7 +41,7 @@ credential and keys are saved in .env file.
 # Steps to set up project
 install latest node LTS  
 install npm or yarn globally  
-git clone https://github.com/sumitamin/to-do-list.git
+git clone https://github.com/sumitamin/to-do.git
 
 # From root folder of project go to /client with
 cd client  
@@ -70,4 +70,4 @@ mysql connection is preset inside config file
 # Project flow
 login or sign up to log into application  
 add task of your choice  
-delete/ edit or set complete task   # to-do
+delete/ edit or set complete task
