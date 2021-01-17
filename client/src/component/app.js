@@ -13,7 +13,7 @@ import { Header } from './common/header'
     })
 
     return (
-        <div style={{width:'100%', backgroundColor:'#a1e0f7', height:'100%'}} onContextMenu={(e)=> e.preventDefault()}>
+        <div style={{width:'100%', backgroundColor:'#a1e0f7', height:'100vh'}} onContextMenu={(e)=> e.preventDefault()}>
             <Header />
             <div className="container main-body" >
                 {props.children}
